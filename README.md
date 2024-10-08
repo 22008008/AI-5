@@ -1,4 +1,4 @@
-# Ex.No: 10 Logic Programming – Simple queries from facts and rules
+# Ex.No: 5 Logic Programming – Simple queries from facts and rules
 
 NAME: SRI RANJANI PRIYA P
 REGISTER NUMBER : 212222040128
