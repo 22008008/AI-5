@@ -1,7 +1,7 @@
 # Ex.No: 5 Logic Programming – Simple queries from facts and rules
 
 NAME: SRI RANJANI PRIYA P
-REGISTER NUMBER : 212222040128
+REGISTER NUMBER : 212222220049
 
 # AIM:
 To write a prolog program to find the answer of query.
